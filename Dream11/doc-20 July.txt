@@ -1,0 +1,20 @@
+match fixtures
+teams
+players
+point dist
+create contest
+
+--------------
+
+Teams
+*****
+Id Name Logo
+1 India c:/desktop/p2
+2 Srilanka c:desktop/p1
+
+---------------
+
+Players
+****
+
+Id, Name, Team_Id, Skills(Batsman,Bowler, WK,all rounder), Player_Point, PlayerPoints
